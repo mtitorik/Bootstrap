@@ -1,0 +1,31 @@
+.slider{
+		background-image: url(../images/bgi.jpeg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+}
+.custom-css{
+
+		background-color: rgba(1, 1, 1, .5);
+		color: white;
+		padding: 30px 55px;
+}
+.custom-css h1{
+		    font-size: 32px;
+		    margin-bottom: 15px;
+}
+.custom-css p{
+	    font-size: 16px;
+	    margin-bottom: 35px;
+}
+.custom-css button{
+		margin-bottom: 30px;
+}
+.first{
+		min-height: 200px;
+		margin-top: 50px;
+		border: 1px solid black;
+}
+.card-size{
+	width: 18rem;
+}
